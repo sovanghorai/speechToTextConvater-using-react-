@@ -115,7 +115,7 @@ button:hover {
   }
 
   .main-content {
-    /*border:1px solid*/
+    border:1px solid black;
     font-size: 16px;
     word-spacing: normal;
   }
